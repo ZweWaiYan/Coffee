@@ -1,6 +1,6 @@
-Colt Steele - Coffee
+Coffee
 --------------------
-This is a demo project from the The Web Developer Bootcamp 2024.
+This is a demo project from the The Web Developer Bootcamp 2024 (Colt Steele).
 
 Overview
 --------------------
@@ -22,6 +22,8 @@ Built it with
 - Mobile-first workflow
 - Javascript
 
+Other
+--------------------
 - Project Idea - Colt Steele
 - Content and images - Nescafé.
 
