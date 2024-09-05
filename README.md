@@ -9,6 +9,7 @@ Users be able to
 - Beautiful UI 
 
 Screenshot
+--------------------
 ![desktop-preview](https://github.com/user-attachments/assets/b75f2658-2e60-4866-83d2-1680694dba25)
 
 links
